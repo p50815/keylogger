@@ -1,0 +1,26 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\HOOK_TEST\bin\Debug\HOOK_TEST.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\HOOK_TEST\bin\Debug\HOOK_TEST.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\HOOK_TEST\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\HOOK_TEST\obj\x86\Debug\HOOK_TEST.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\HOOK_TEST\obj\x86\Debug\HOOK_TEST.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\HOOK_TEST\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\HOOK_TEST\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\HOOK_TEST\obj\x86\Debug\HOOK_TEST.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\HOOK_TEST\obj\x86\Debug\HOOK_TEST.pdb
+C:\Documents and Settings\Administrator\桌面\HOOK_TEST\HOOK_TEST\HOOK_TEST\obj\x86\Debug\HOOK_TEST.exe
+C:\Documents and Settings\Administrator\桌面\HOOK_TEST\HOOK_TEST\HOOK_TEST\obj\x86\Debug\HOOK_TEST.pdb
+C:\Documents and Settings\Administrator\桌面\HOOK_TEST\HOOK_TEST\HOOK_TEST\bin\Debug\HOOK_TEST.exe
+C:\Documents and Settings\Administrator\桌面\HOOK_TEST\HOOK_TEST\HOOK_TEST\bin\Debug\HOOK_TEST.pdb
+C:\Documents and Settings\Administrator\桌面\HOOK_TEST\HOOK_TEST\HOOK_TEST\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\HOOK_TEST\HOOK_TEST\HOOK_TEST\obj\x86\Debug\HOOK_TEST.Form1.resources
+C:\Documents and Settings\Administrator\桌面\HOOK_TEST\HOOK_TEST\HOOK_TEST\obj\x86\Debug\HOOK_TEST.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\HOOK_TEST\HOOK_TEST\HOOK_TEST\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\HOOK_TEST\HOOK_TEST\HOOK_TEST\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\HOOK_TEST\HOOK_TEST\HOOK_TEST\obj\x86\Debug\HOOK_TEST.exe
+C:\Users\Administrator\Desktop\HOOK_TEST\HOOK_TEST\HOOK_TEST\obj\x86\Debug\HOOK_TEST.pdb
+C:\Users\Administrator\Desktop\HOOK_TEST\HOOK_TEST\HOOK_TEST\obj\x86\Debug\HOOK_TEST.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HOOK_TEST\HOOK_TEST\HOOK_TEST\obj\x86\Debug\HOOK_TEST.Form1.resources
+C:\Users\Administrator\Desktop\HOOK_TEST\HOOK_TEST\HOOK_TEST\obj\x86\Debug\HOOK_TEST.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HOOK_TEST\HOOK_TEST\HOOK_TEST\obj\x86\Debug\HOOK_TEST.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\HOOK_TEST\HOOK_TEST\HOOK_TEST\bin\Debug\HOOK_TEST.exe
+C:\Users\Administrator\Desktop\HOOK_TEST\HOOK_TEST\HOOK_TEST\bin\Debug\HOOK_TEST.pdb
